@@ -1,24 +1,15 @@
-PROJECT NAME:
-battleship03
+# README #
 
-DESCRIPTION:
-A game in which player only knows his ships' locations and aims to shoot
-opponent's ships.
+This project is an implementation of the classic Battleship game.
 
-INSTALLATION:
-1. Open Terminal
-2. Move to the battleship03 folder
-3. Run build.sh
-4. Run run.sh
+Requirements:
 
-USAGE:
-Play it when you hate life.
+* Windows machine or Mono installed
+* Unix command line (use something like MSYS2 on Windows)
 
-CREDITS:
-Lach98
-Acmetonto
-dannamachi
-SeairahM
+To get started:
 
-LICENSE:
-N/A
+1. Clone project
+1. Open command line and cd to project root
+1. Build using `build.sh`
+1. Run using `run.sh` -- you can also find the executable in the bin folder, but this script makes it simpler to build and run from the command line.
